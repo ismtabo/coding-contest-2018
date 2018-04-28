@@ -1,0 +1,62 @@
+#0 Min 303 Next #1 807 Delta 504
+Comparing #1(807)-#2(1311) = 504 It's in
+Comparing #2(1311)-#3(1814) = 504 Nope
+Comparing #2(1311)-#4(1815) = 504 It's in
+Comparing #4(1815)-#5(2319) = 504 It's in
+Comparing #5(2319)-#6(2823) = 504 It's in
+Comparing #6(2823)-#7(3327) = 504 It's in
+Comparing #7(3327)-#8(3831) = 504 It's in
+Comparing #8(3831)-#9(3981) = 504 Nope
+Comparing #8(3831)-#10(4335) = 504 It's in
+Comparing #10(4335)-#11(4839) = 504 It's in
+Comparing #11(4839)-#12(5343) = 504 It's in
+Comparing #12(5343)-#13(5847) = 504 It's in
+Comparing #13(5847)-#14(6148) = 504 Nope
+Comparing #13(5847)-#15(6351) = 504 It's in
+Comparing #15(6351)-#16(6855) = 504 It's in
+Comparing #16(6855)-#17(7359) = 504 It's in
+Comparing #17(7359)-#18(7863) = 504 It's in
+Comparing #18(7863)-#19(8315) = 504 Nope
+Comparing #18(7863)-#20(8367) = 504 It's in
+Comparing #20(8367)-#21(8871) = 504 It's in
+Comparing #21(8871)-#22(9375) = 504 It's in
+Comparing #22(9375)-#23(9879) = 504 It's in
+Found (303, 9879, 20)
+#3 Min 1814 Next #4 1815 Delta 1
+Comparing #4(1815)-#5(2319) = 1 Super Nope
+#3 Min 1814 Next #5 2319 Delta 505
+Comparing #5(2319)-#6(2823) = 505 Nope
+Comparing #5(2319)-#7(3327) = 505 Super Nope
+#3 Min 1814 Next #6 2823 Delta 1009
+Comparing #6(2823)-#7(3327) = 1009 Nope
+Comparing #6(2823)-#8(3831) = 1009 Nope
+Comparing #6(2823)-#9(3981) = 1009 Super Nope
+#3 Min 1814 Next #7 3327 Delta 1513
+Comparing #7(3327)-#8(3831) = 1513 Nope
+Comparing #7(3327)-#9(3981) = 1513 Nope
+Comparing #7(3327)-#10(4335) = 1513 Nope
+Comparing #7(3327)-#11(4839) = 1513 Nope
+Comparing #7(3327)-#12(5343) = 1513 Super Nope
+#3 Min 1814 Next #8 3831 Delta 2017
+Comparing #8(3831)-#9(3981) = 2017 Nope
+Comparing #8(3831)-#10(4335) = 2017 Nope
+Comparing #8(3831)-#11(4839) = 2017 Nope
+Comparing #8(3831)-#12(5343) = 2017 Nope
+Comparing #8(3831)-#13(5847) = 2017 Nope
+Comparing #8(3831)-#14(6148) = 2017 Super Nope
+#3 Min 1814 Next #9 3981 Delta 2167
+Comparing #9(3981)-#10(4335) = 2167 Nope
+Comparing #9(3981)-#11(4839) = 2167 Nope
+Comparing #9(3981)-#12(5343) = 2167 Nope
+Comparing #9(3981)-#13(5847) = 2167 Nope
+Comparing #9(3981)-#14(6148) = 2167 It's in
+Comparing #14(6148)-#15(6351) = 2167 Nope
+Comparing #14(6148)-#16(6855) = 2167 Nope
+Comparing #14(6148)-#17(7359) = 2167 Nope
+Comparing #14(6148)-#18(7863) = 2167 Nope
+Comparing #14(6148)-#19(8315) = 2167 It's in
+Comparing #19(8315)-#20(8367) = 2167 Nope
+Comparing #19(8315)-#21(8871) = 2167 Nope
+Comparing #19(8315)-#22(9375) = 2167 Nope
+Comparing #19(8315)-#23(9879) = 2167 Nope
+Found (1814, 8315, 4)
